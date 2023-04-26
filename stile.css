@@ -1,5 +1,9 @@
 body{background-color: powderblue blue;}
 .topo {display:flex;}
+.alunnos{display: inline-block;}
+.descricao{display: flex;
+    justify-content:space-around;}
+    .descricao{width: 20%;}
 
 
 .alunos{}
